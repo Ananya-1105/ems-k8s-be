@@ -15,8 +15,8 @@
     <artifactId>ems</artifactId>
     <version>0.0.1-SNAPSHOT</version>
 
-    <!-- IMPORTANT: Your project must be a WAR -->
-    <packaging>war</packaging>
+    <!-- IMPORTANT: Your project must be a jAR -->
+    <packaging>jar</packaging>
 
     <name>EmployeeManagementSystem</name>
     <description>Demo project for Spring Boot</description>
